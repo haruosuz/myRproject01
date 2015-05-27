@@ -1,12 +1,12 @@
 {
-    "contents" : "1 + 2\n",
+    "contents" : "1:10\nplot(1:10)\n",
     "created" : 1432710355909.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4261316895",
+    "hash" : "1296534283",
     "id" : "446F25A5",
-    "lastKnownWriteTime" : 1432710364,
+    "lastKnownWriteTime" : 1432713005,
     "path" : "~/myRproject01/test.R",
     "project_path" : "test.R",
     "properties" : {
